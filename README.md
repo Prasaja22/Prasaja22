@@ -1,4 +1,4 @@
-![Banner](https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif)
+![Banner](https://media.tenor.com/i4qBkzJarC4AAAAd/guts-guts-berserk.gif)
 
 <h1 align="center">Hi 👋, I'm Ghozy Nouval Satya Prasaja</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
