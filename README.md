@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/475eb095746151.5e9ecde695f7a.gif)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/475eb095746151.5e9ecde695f7a.gif)
 
 <h1 align="center">Hi 👋, I'm Ghozy Nouval Satya Prasaja</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
