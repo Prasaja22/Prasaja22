@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/i4qBkzJarC4AAAAd/guts-guts-berserk.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)]
 
 <h1 align="center">Hi 👋, I'm Ghozy Nouval Satya Prasaja</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
