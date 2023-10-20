@@ -1,7 +1,4 @@
-<div style="background-image: url('[URL_GAMBAR](https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif)'); background-size: cover; padding: 100px; text-align: center;">
-  <h1 style="color: #fff;">Ini adalah Banner Full Width dengan Gambar Latar Belakang</h1>
-  <p style="color: #fff;">Tambahkan teks atau konten Anda di sini.</p>
-</div>
+![Banner](https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif)
 
 <h1 align="center">Hi 👋, I'm Ghozy Nouval Satya Prasaja</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
